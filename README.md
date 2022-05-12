@@ -2,13 +2,13 @@
 Game of thrones battle information
 
 
-**Case Study
+#**Case Study**
 
 Develop a pseudo backend application which would let users list game of thrones battles
 conveniently.
 
 
-— Use of Data dump (available in CSV/MySQL) for GOT detail : **GOT/src/main/resources/battles.csv
+— Use of Data dump (available in CSV/MySQL) for GOT detail : #**GOT/src/main/resources/battles.csv**
 
 ● Data Parameters: { name, year, battle_number, attacker_king, defender_king,
 attacker_outcome, battle_type, major_death, major_capture, attacker_size,
