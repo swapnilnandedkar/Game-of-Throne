@@ -1,4 +1,4 @@
-# Game-of-Throne (Game of thrones battle information)
+# Game-of-Throne
 Develop a pseudo backend application which would let users list game of thrones battles conveniently.
 
 
