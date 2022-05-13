@@ -1,8 +1,5 @@
-# Game-of-Throne
-Game of thrones battle information
-
-Develop a pseudo backend application which would let users list game of thrones battles
-conveniently.
+# Game-of-Throne (Game of thrones battle information)
+Develop a pseudo backend application which would let users list game of thrones battles conveniently.
 
 
 **Case Study**
